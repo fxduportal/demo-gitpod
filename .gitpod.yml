@@ -3,4 +3,4 @@ vscode:
     - sburg.vscode-javascript-booster@0.11.0:Yyh4JxciQozQ2eBi0Nx6Tg==
 
 image:
-  file: .gitpod.dockerfile
+  file: Dockerfile
